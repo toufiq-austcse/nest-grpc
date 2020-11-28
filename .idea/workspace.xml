@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85ef5dbe-3ddc-4d84-97f2-049ff3e7ab39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/server/src/grpc.option.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/hero/hero.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/hero/interface/Hero.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/hero/interface/HeroById.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server" />
+  </component>
+  <component name="ProjectId" id="1kcxz4O5HOjp3J0J6zyG9pANqnZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85ef5dbe-3ddc-4d84-97f2-049ff3e7ab39" name="Default Changelist" comment="" />
+      <created>1606013939896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606013939896</updated>
+      <workItem from="1606013941010" duration="3773000" />
+      <workItem from="1606032037046" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="280" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606025120070">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="693" y="280" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1009/1920.0.1080.1920@0.27.1920.1009" timestamp="1606025120070" />
+    <state x="685" y="445" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606025118577">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="685" y="445" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1920.1009/1920.0.1080.1920@0.27.1920.1009" timestamp="1606025118577" />
+  </component>
+</project>
